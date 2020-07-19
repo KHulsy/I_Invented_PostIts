@@ -1,1 +1,16 @@
-[{"title":"Test Title","text":"Test text"}]
+
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "An app that may or may not know the viscocity of glue.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kaitlin Hulsy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.17.1"
+  }
+}
